@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"starlight",
+			"gf",
+			[
+				26,
+				13,
+				233
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "starlightBG",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "extra",
+	"weekName": "weekstarlight",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
