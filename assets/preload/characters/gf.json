@@ -58,8 +58,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-2,
-				-21
+				-122,
+				64
 			],
 			"fps": 24,
 			"anim": "sad",
@@ -83,8 +83,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-9
+				-120,
+				81
 			],
 			"fps": 24,
 			"anim": "danceLeft",
@@ -111,8 +111,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				0,
-				-9
+				-120,
+				81
 			],
 			"fps": 24,
 			"anim": "danceRight",
@@ -188,7 +188,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/GF_assets",
+	"image": "characters/gf",
 	"position": [
 		0,
 		0
